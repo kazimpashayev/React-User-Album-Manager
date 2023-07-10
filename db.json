@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "name": "Tommy Crooks",
+      "id": 1
+    },
+    {
+      "name": "Jimmy Hammes",
+      "id": 2
+    },
+    {
+      "name": "Keith Hammes",
+      "id": 3
+    },
+    {
+      "name": "Pedro Zemlak",
+      "id": 4
+    },
+    {
+      "name": "Joann Mraz",
+      "id": 5
+    },
+    {
+      "name": "Dolores Hermiston-Kutch",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Sleek Bronze Chicken",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Concrete Sausages",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Rubber Bike",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "title": "Rustic Plastic Bacon",
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Fresh Gloves",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "title": "Small Rubber Keyboard",
+      "id": 9
+    },
+    {
+      "userId": 6,
+      "title": "Gorgeous Steel Car",
+      "id": 10
+    },
+    {
+      "userId": 5,
+      "title": "Practical Bronze Keyboard",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "title": "Ergonomic Rubber Shirt",
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "title": "Unbranded Wooden Chips",
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "title": "Intelligent Cotton Salad",
+      "id": 14
+    }
+  ],
+  "photos": []
+}
