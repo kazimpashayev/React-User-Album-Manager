@@ -1,6 +1,38 @@
-# Getting Started with Create React App
+# React User & Album Manager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React User & Album Manager is a small React-based project that allows users to manage users, albums, and photos. It provides features such as adding random users, deleting users, creating albums for specific users, adding photos to user albums, and deleting them.
+
+## Features
+
+- User Management: Easily add and delete users from the user list.
+
+- Album Creation: Create albums for specific users.
+
+- Photo Management: Add photos to user albums and delete them as needed.
+
+- Random Data: Generate random user details, albums, and photos using the Faker library.
+
+- React and Redux: Built using React, Redux Toolkit, and Redux Toolkit Query for seamless state management and API integration.
+
+- Styling: Utilizes the Tailwind CSS framework for a responsive and visually appealing interface.
+
+- JSON Server: Simulates a RESTful API using JSON Server to handle HTTP requests.
+
+Please note that the JSON server will simulate API endpoints at http://localhost:3005. The React app will automatically make requests to this URL.
+
+## Technologies Used
+
+- React
+
+- Redux Toolkit
+
+- Redux Toolkit Query
+
+- Tailwind CSS
+
+- JSON Server
+
+- Faker
 
 ## Available Scripts
 

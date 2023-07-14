@@ -1,86 +1,68 @@
 {
   "users": [
     {
-      "name": "Tommy Crooks",
+      "name": "Joan Tillman",
       "id": 1
     },
     {
-      "name": "Jimmy Hammes",
+      "name": "Erin Nitzsche",
       "id": 2
     },
     {
-      "name": "Keith Hammes",
+      "name": "Suzanne McGlynn",
       "id": 3
-    },
-    {
-      "name": "Pedro Zemlak",
-      "id": 4
-    },
-    {
-      "name": "Joann Mraz",
-      "id": 5
-    },
-    {
-      "name": "Dolores Hermiston-Kutch",
-      "id": 6
     }
   ],
   "albums": [
     {
-      "userId": 2,
-      "title": "Sleek Bronze Chicken",
+      "title": "Gorgeous Wooden Shoes",
       "id": 3
     },
     {
-      "userId": 1,
-      "title": "Intelligent Concrete Sausages",
-      "id": 5
+      "title": "Generic Frozen Bacon",
+      "id": 4
     },
     {
-      "userId": 1,
-      "title": "Elegant Rubber Bike",
-      "id": 6
-    },
-    {
-      "userId": 4,
-      "title": "Rustic Plastic Bacon",
-      "id": 7
-    },
-    {
-      "userId": 4,
-      "title": "Fantastic Fresh Gloves",
+      "userId": 3,
+      "title": "Modern Steel Cheese",
       "id": 8
     },
     {
       "userId": 2,
-      "title": "Small Rubber Keyboard",
-      "id": 9
-    },
-    {
-      "userId": 6,
-      "title": "Gorgeous Steel Car",
+      "title": "Bespoke Metal Sausages",
       "id": 10
     },
     {
-      "userId": 5,
-      "title": "Practical Bronze Keyboard",
+      "userId": 3,
+      "title": "Ergonomic Granite Bike",
       "id": 11
     },
     {
-      "userId": 5,
-      "title": "Ergonomic Rubber Shirt",
-      "id": 12
-    },
-    {
-      "userId": 6,
-      "title": "Unbranded Wooden Chips",
+      "userId": 1,
+      "title": "Bespoke Steel Bacon",
       "id": 13
     },
     {
-      "userId": 5,
-      "title": "Intelligent Cotton Salad",
+      "userId": 2,
+      "title": "Sleek Frozen Chair",
       "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Granite Car",
+      "id": 16
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 8,
+      "url": "https://picsum.photos/seed/996feyE9/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 13,
+      "url": "https://picsum.photos/seed/nVte1/640/480",
+      "id": 2
+    }
+  ]
 }
